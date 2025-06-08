@@ -1,7 +1,7 @@
 // Generated from JavaScriptSubset.g4 by ANTLR 4.13.1
 // jshint ignore: start
 import antlr4 from 'antlr4';
-import JavaScriptSubsetListener from './JavaScriptSubsetListener.js';
+import migramaticaListener from './migramaticaListener.js';
 const serializedATN = [4,1,18,91,2,0,7,0,2,1,7,1,2,2,7,2,2,3,7,3,2,4,7,4,
 2,5,7,5,2,6,7,6,2,7,7,7,2,8,7,8,1,0,5,0,20,8,0,10,0,12,0,23,9,0,1,1,1,1,
 1,1,3,1,28,8,1,1,2,1,2,1,2,1,2,1,2,1,2,1,2,5,2,37,8,2,10,2,12,2,40,9,2,1,
